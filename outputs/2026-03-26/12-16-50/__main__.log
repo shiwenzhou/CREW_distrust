@@ -1,7 +1,0 @@
-[2026-03-26 12:17:02,475][mlagents_envs.environment][INFO] - Connected to Unity environment with package version 2.3.0-exp.3 and communication version 1.5.0
-[2026-03-26 12:17:05,442][mlagents_envs.environment][INFO] - Connected new brain: My Behavior?team=0
-[2026-03-26 12:17:09,724][httpx][INFO] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2026-03-26 12:17:09,727][openai._base_client][INFO] - Retrying request to /chat/completions in 0.483254 seconds
-[2026-03-26 12:17:10,316][httpx][INFO] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2026-03-26 12:17:10,318][openai._base_client][INFO] - Retrying request to /chat/completions in 0.974876 seconds
-[2026-03-26 12:17:11,391][httpx][INFO] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 429 Too Many Requests"
